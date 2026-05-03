@@ -1,5 +1,3 @@
-import java.awt.Image;
-
 import javax.swing.JFrame;
 
 public class App {
